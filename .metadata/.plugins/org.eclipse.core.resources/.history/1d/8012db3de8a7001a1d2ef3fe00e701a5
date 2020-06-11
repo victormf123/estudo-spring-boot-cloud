@@ -1,0 +1,20 @@
+package com.matheusfreitas.photoapp.api.users.service;
+
+import java.util.UUID;
+
+import org.modelmapper.ModelMapper;
+
+import com.matheusfreitas.photoapp.api.users.data.UserEntity;
+import com.matheusfreitas.photoapp.api.users.shared.UserDto;
+
+public class UsersServiceImpl implements UsersService {
+
+	@Override
+	public UserDto createUser(UserDto userDetails) {
+		userDetails.setUserId(UUID.randomUUID().toString());
+		ModelMapper modelMapper = new ModelMapper();
+		UserEntity userEntity = modelMapper.map(userDetails, UserEntity.class);
+		return null;
+	}
+
+}

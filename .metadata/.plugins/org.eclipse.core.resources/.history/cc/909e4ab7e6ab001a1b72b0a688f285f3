@@ -1,0 +1,5 @@
+package com.matheusfreitas.photoapp.api.users.shared;
+
+public class FeignErrorDecoder {
+
+}

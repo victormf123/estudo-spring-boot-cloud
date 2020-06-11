@@ -1,0 +1,11 @@
+package com.matheusfreitas.photoapp.api.users.ui.model;
+
+public class AlbumResponseModel {
+	private String albumId;
+	private 
+	
+	"": "album1Id",
+    "userId": "12321",
+    "name": "album 1 name",
+    "description": "album 1 description"
+}

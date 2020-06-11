@@ -1,0 +1,50 @@
+!SESSION 2020-06-09 09:25:12.304 -----------------------------------------------
+eclipse.buildId=4.6.1.202004200639-RELEASE
+java.version=13.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4 -keyring /Users/matheus/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.springframework.boot.ide.branding.sts4 -keyring /Users/matheus/.eclipse_keyring
+
+This is a continuation of log file /Users/matheus/Documents/spring-boot-cloud-microservices-estudy/.metadata/.bak_2.log
+Created Time: 2020-06-11 11:36:27.246
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:36:27.247
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:36:27.250
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:36:27.253
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:36:27.255
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:36:28.376
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:36:28.387
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:37:25.174
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+
+!ENTRY org.eclipse.ui 4 0 2020-06-11 11:37:25.184
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
